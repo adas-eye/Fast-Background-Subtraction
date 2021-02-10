@@ -1,18 +1,3 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** rohitdavas, Fast-Background-Subtraction, rohitdavas, rohitdavas.git@gmail.com
-, Fast Background Subtraction, project_description
--->
-
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -21,6 +6,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -40,7 +26,7 @@
   <h3 align="center">Fast Background Subtraction</h3>
 
   <p align="center">
-    project_description
+    Light-weight and fast background subtraction model 
     <br />
     <a href="https://github.com/rohitdavas/fast-background-subtraction"><strong>Explore the docs »</strong></a>
     <br />
@@ -52,7 +38,6 @@
     <a href="https://github.com/rohitdavas/fast-background-subtraction/issues">Request Feature</a>
   </p>
 </p>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -85,8 +70,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<a href="https://github.com/rohitdavas/fast-background-subtraction">
+    <img src="images/project_logo.png" alt="proejct image" width="80" height="80">
+</a>
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -188,15 +174,15 @@ Project Link: [https://github.com/rohitdavas/Fast-Background-Subtraction](https:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/rohitdavas/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/rohitdavas/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/rohitdavas/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/rohitdavas/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/rohitdavas/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/rohitdavas/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/rohitdavas/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/rohitdavas/repo/issues
-[license-shield]: https://img.shields.io/github/license/rohitdavas/repo.svg?style=for-the-badge
-[license-url]: https://github.com/rohitdavas/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/rohitdavas/fast-background-subtraction.svg?style=for-the-badge
+[contributors-url]: https://github.com/rohitdavas/fast-background-subtraction/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/rohitdavas/fast-background-subtraction.svg?style=for-the-badge
+[forks-url]: https://github.com/rohitdavas/fast-background-subtraction/network/members
+[stars-shield]: https://img.shields.io/github/stars/rohitdavas/fast-background-subtraction.svg?style=for-the-badge
+[stars-url]: https://github.com/rohitdavas/fast-background-subtraction/stargazers
+[issues-shield]: https://img.shields.io/github/issues/rohitdavas/fast-background-subtraction.svg?style=for-the-badge
+[issues-url]: https://github.com/rohitdavas/fast-background-subtraction/issues
+[license-shield]: https://img.shields.io/github/license/rohitdavas/fast-background-subtraction.svg?style=for-the-badge
+[license-url]: https://github.com/rohitdavas/repo/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/rohitdavas
+[linkedin-url]: https://linkedin.com/in/rohit-davas
