@@ -19,7 +19,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/rohitdavas/fast-background-subtraction">
-    <img src="images/logo.png" alt="Logo">
+    <img src="../images/logo.png" alt="Logo">
   </a>
 
   <h3 align="center">Fast Background Subtraction</h3>
@@ -70,7 +70,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <a href="https://github.com/rohitdavas/fast-background-subtraction">
-    <img src="images/project_logo.png" alt="proejct image" width="256" height="256">
+    <img src="../images/project_logo.png" alt="proejct image" width="256" height="256">
 </a>
 
 Background subtraction is a problem where we need to get the foreground of an image given that we have a background. 
@@ -161,15 +161,15 @@ A work from the wonderful guidance and motivation from
 [license-url]: https://github.com/rohitdavas/repo/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/rohit-davas
-[developement-shield]:images/Under_Developement.svg
+[developement-shield]:../images/Under_Developement.svg
 [developement-shiled-url]:https://github.com/rohitdavas/fast-background-subtraction
-[pytorch-shield]:images/pytorch_shield.svg
-[opencv-shield]:images/opencv_shield.svg
-[qt-shield]:images/qt_shield.svg
+[pytorch-shield]:../images/pytorch_shield.svg
+[opencv-shield]:../images/opencv_shield.svg
+[qt-shield]:../images/qt_shield.svg
 [pytorch-shield-url]:https://pytorch.org/
 [qt-shield-url]:https://www.qt.io/
 [opencv-shield-url]:https://opencv.org
-[twitter-shield]:images/Twitter_shield.svg
+[twitter-shield]:../images/Twitter_shield.svg
 [twitter-shield-url]:https://twitter.com/rohitdavas
-[email-shield]:images/email_shield.svg
+[email-shield]:../images/email_shield.svg
 [email-shield-url]:https://rohitdavas.github.io/
