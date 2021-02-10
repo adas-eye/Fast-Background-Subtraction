@@ -70,7 +70,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <a href="https://github.com/rohitdavas/fast-background-subtraction">
-    <img src="images/project_logo.png" alt="proejct image" width="256" height="256">
+    <img src="../images/project_logo.png" alt="Project image" width="256" height="256">
 </a>
 
 Background subtraction is a problem where we need to get the foreground of an image given that we have a background. 
@@ -135,6 +135,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
+[![github][github-shield]][github-shield-url]
 [![twitter][twitter-shield]][twitter-shield-url]
 [![email][email-shield]][email-shield-url]
 [![linkedin][linkedin-shield]][linkedin-url]
@@ -180,7 +181,10 @@ A work from the wonderful guidance and motivation from
 [opencv-shield]: https://img.shields.io/static/v1?label=openCV&message=4.5.1&color=blue
 [opencv-shield-url]:https://opencv.org
 
-[twitter-shield]:https://img.shields.io/static/v1?label=Twitter&message=rohitdavas&color=blue
+[github-shield]:https://img.shields.io/github/followers/rohitdavas?label=follow&style=social
+[github-shield-url]:https://github.com/rohitdavas
+
+[twitter-shield]:https://img.shields.io/twitter/follow/rohitdavas?label=Follow&style=social
 [twitter-shield-url]:https://twitter.com/rohitdavas
 
 [email-shield]:https://img.shields.io/static/v1?label=email&message=rohitdavas.git@gmail.com&color=blueviolet
