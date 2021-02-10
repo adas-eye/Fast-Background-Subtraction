@@ -149,27 +149,39 @@ A work from the wonderful guidance and motivation from
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/rohitdavas/fast-background-subtraction.svg?style=for-the-badge
 [contributors-url]: https://github.com/rohitdavas/fast-background-subtraction/graphs/contributors
+
 [forks-shield]: https://img.shields.io/github/forks/rohitdavas/fast-background-subtraction.svg?style=for-the-badge
 [forks-url]: https://github.com/rohitdavas/fast-background-subtraction/network/members
+
 [stars-shield]: https://img.shields.io/github/stars/rohitdavas/fast-background-subtraction.svg?style=for-the-badge
 [stars-url]: https://github.com/rohitdavas/fast-background-subtraction/stargazers
+
 [issues-shield]: https://img.shields.io/github/issues/rohitdavas/fast-background-subtraction.svg?style=for-the-badge
 [issues-url]: https://github.com/rohitdavas/fast-background-subtraction/issues
+
 [license-shield]: https://img.shields.io/github/license/rohitdavas/fast-background-subtraction.svg?style=for-the-badge
 [license-url]: https://github.com/rohitdavas/repo/blob/master/LICENSE
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/rohit-davas
+
 [developement-shield]:images/Under_Developement.svg
 [developement-shiled-url]:https://github.com/rohitdavas/fast-background-subtraction
-[pytorch-shield]:images/pytorch_shield.svg
-[opencv-shield]:images/opencv_shield.svg
-[qt-shield]:images/qt_shield.svg
+
+[pytorch-shield]:https://img.shields.io/static/v1?label=PyTorch&message=1.7.1&color=red
 [pytorch-shield-url]:https://pytorch.org/
+
+[qt-shield]:https://img.shields.io/static/v1?label=qt&message=5&color=green
 [qt-shield-url]:https://www.qt.io/
+
+[opencv-shield]: https://img.shields.io/static/v1?label=openCV&message=4.5.1&color=blue
 [opencv-shield-url]:https://opencv.org
-[twitter-shield]:images/Twitter_shield.svg
+
+[twitter-shield]:https://img.shields.io/static/v1?label=Twitter&message=rohitdavas&color=blue
 [twitter-shield-url]:https://twitter.com/rohitdavas
-[email-shield]:images/email_shield.svg
-[email-shield-url]:https://rohitdavas.github.io/
+
+[email-shield]:https://img.shields.io/static/v1?label=email&message=rohitdavas.git@gmail.com&color=blueviolet
+[email-shield-url]:https://rohitdavas.github.io/ 
