@@ -20,7 +20,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/rohitdavas/fast-background-subtraction">
-    <img src="images/under_developement.png" alt="Logo" width="128" height="96">
+    <img src="images/under_developement.png" alt="Logo" width="320" height="240">
   </a>
 
   <h3 align="center">Fast Background Subtraction</h3>
