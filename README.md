@@ -20,7 +20,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/rohitdavas/fast-background-subtraction">
-    <img src="./images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/under_developement.png" alt="Logo" width="160" height="80">
   </a>
 
   <h3 align="center">Fast Background Subtraction</h3>
@@ -74,11 +74,8 @@
     <img src="images/project_logo.png" alt="proejct image" width="256" height="256">
 </a>
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`rohitdavas`, `Fast-Background-Subtraction`, `rohitdavas`, `rohitdavas.git@gmail.com
-`, `Fast Background Subtraction`, `project_description`
-
+Background subtraction is a problem where we need to get the foreground of an image given that we have a background. 
+A good reference can be found over [here](https://sites.google.com/site/backgroundsubtraction/Home?authuser=0)
 
 ### Built With
 
