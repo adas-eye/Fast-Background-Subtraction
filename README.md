@@ -168,7 +168,7 @@ A work from the wonderful guidance and motivation from
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/rohit-davas
 
-[developement-shield]:images/Under_Developement.svg
+[developement-shield]:https://img.shields.io/static/v1?label=Status&message=In-Developement&color=informational
 [developement-shiled-url]:https://github.com/rohitdavas/fast-background-subtraction
 
 [pytorch-shield]:https://img.shields.io/static/v1?label=PyTorch&message=1.7.1&color=red
