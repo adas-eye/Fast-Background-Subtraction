@@ -1,37 +1,175 @@
-## Welcome to GitHub Pages
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Status][developement-shield]][developement-shiled-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-You can use the [editor on GitHub](https://github.com/rohitdavas/Fast-Background-Subtraction/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/rohitdavas/fast-background-subtraction">
+    <img src="images/logo.png" alt="Logo">
+  </a>
 
-### Markdown
+  <h3 align="center">Fast Background Subtraction</h3>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <p align="center">
+    Light-weight and fast background subtraction model 
+    <br />
+    <a href="https://rohitdavas.github.io/projects/Fast-Background-Subtraction.html"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/rohitdavas/fast-background-subtraction">View Demo</a>
+    ·
+    <a href="https://github.com/rohitdavas/fast-background-subtraction/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/rohitdavas/fast-background-subtraction/issues">Request Feature</a>
+  </p>
+</p>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<!-- ABOUT THE PROJECT -->
+## About The Project
+<a href="https://github.com/rohitdavas/fast-background-subtraction">
+    <img src="images/project_logo.png" alt="proejct image" width="256" height="256">
+</a>
 
-[Link](url) and ![Image](src)
-```
+Background subtraction is a problem where we need to get the foreground of an image given that we have a background. 
+A good reference can be found over [here](https://sites.google.com/site/backgroundsubtraction/Home?authuser=0)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The target is to build a general background subtractor which takes any two pair - { background image, current frame} and 
+subtracts out the foreground mask.
 
-### Jekyll Themes
+Details about the target of project, literature survey, references can be found [here](https://sites.google.com/site/backgroundsubtraction/Home?authuser=0)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rohitdavas/Fast-Background-Subtraction/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Built With
+[![PyTorch][pytorch-shield]][pytorch-shield-url] [![Qt5][qt-shield]][qt-shield-url] [![OpenCV][opencv-shield]][opencv-shield-url]
 
-### Support or Contact
+<!-- GETTING STARTED -->
+## Getting Started
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+Install the requisite libraries as mentioned in the requirements.txt in the module.
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/rohitdavas/Fast-Background-Subtraction.git
+   ```
+
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+Integration of `BGS Neural Network Model` into the BGS software is still pending. `BGS software` currently, uses
+`opencv's MOG2` for Background subtraction. 
+
+<!-- ROADMAP -->
+## Roadmap
+
+See the [open issues](https://github.com/rohitdavas/Fast-Background-Subtraction/issues) for a list of proposed features (and known issues).
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+
+<!-- CONTACT -->
+## Contact
+[![twitter][twitter-shield]][twitter-shield-url]
+[![email][email-shield]][email-shield-url]
+[![linkedin][linkedin-shield]][linkedin-url]
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+A work from the wonderful guidance and motivation from 
+* [Dr. Nils Hasler](https://www.linkedin.com/in/nils-hasler-91734a12/)
+* [Michal Ritcher](https://www.linkedin.com/in/michal-richter-595661154/)
+* [Dr. Vinit Jakhetiya](https://www.linkedin.com/in/vinit-jakhetiya-ph-d-b2450a80/?originalSubdomain=in)
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/rohitdavas/fast-background-subtraction.svg?style=for-the-badge
+[contributors-url]: https://github.com/rohitdavas/fast-background-subtraction/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/rohitdavas/fast-background-subtraction.svg?style=for-the-badge
+[forks-url]: https://github.com/rohitdavas/fast-background-subtraction/network/members
+[stars-shield]: https://img.shields.io/github/stars/rohitdavas/fast-background-subtraction.svg?style=for-the-badge
+[stars-url]: https://github.com/rohitdavas/fast-background-subtraction/stargazers
+[issues-shield]: https://img.shields.io/github/issues/rohitdavas/fast-background-subtraction.svg?style=for-the-badge
+[issues-url]: https://github.com/rohitdavas/fast-background-subtraction/issues
+[license-shield]: https://img.shields.io/github/license/rohitdavas/fast-background-subtraction.svg?style=for-the-badge
+[license-url]: https://github.com/rohitdavas/repo/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/rohit-davas
+[developement-shield]:images/Under_Developement.svg
+[developement-shiled-url]:https://github.com/rohitdavas/fast-background-subtraction
+[pytorch-shield]:images/pytorch_shield.svg
+[opencv-shield]:images/opencv_shield.svg
+[qt-shield]:images/qt_shield.svg
+[pytorch-shield-url]:https://pytorch.org/
+[qt-shield-url]:https://www.qt.io/
+[opencv-shield-url]:https://opencv.org
+[twitter-shield]:images/Twitter_shield.svg
+[twitter-shield-url]:https://twitter.com/rohitdavas
+[email-shield]:images/email_shield.svg
+[email-shield-url]:https://rohitdavas.github.io/
