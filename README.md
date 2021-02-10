@@ -6,7 +6,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-
+[![Status][developement-shield]][developement-shiled-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -15,11 +15,13 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  ![image](images/under_developement.png)
+  <a href="https://github.com/rohitdavas/fast-background-subtraction">
+    <img src="images/logo.png" alt="Logo">
+  </a>
+
   <h3 align="center">Fast Background Subtraction</h3>
 
   <p align="center">
@@ -74,13 +76,13 @@
 Background subtraction is a problem where we need to get the foreground of an image given that we have a background. 
 A good reference can be found over [here](https://sites.google.com/site/backgroundsubtraction/Home?authuser=0)
 
+The target is to build a general background subtractor which takes any two pair - { background image, current frame} and 
+subtracts out the foreground mask.
+
+Details about the target of project, literature survey, references can be found [here](https://sites.google.com/site/backgroundsubtraction/Home?authuser=0)
+
 ### Built With
-
-* []()
-* []()
-* []()
-
-
+[![PyTorch][pytorch-shield]][pytorch-shield-url] [![Qt5][qt-shield]][qt-shield-url] [![OpenCV][opencv-shield]][opencv-shield-url]
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -88,35 +90,21 @@ A good reference can be found over [here](https://sites.google.com/site/backgrou
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Install the requisite libraries as mentioned in the requirements.txt in the module.
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/rohitdavas
-  /Fast-Background-Subtraction.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
+   git clone https://github.com/rohitdavas/Fast-Background-Subtraction.git
    ```
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
+Integration of `BGS Neural Network Model` into the BGS software is still pending. `BGS software` currently, uses
+`opencv's MOG2` for Background subtraction. 
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -147,23 +135,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-
-Your Name - [@rohitdavas](https://twitter.com/rohitdavas) - rohitdavas.git@gmail.com
-
-
-Project Link: [https://github.com/rohitdavas/Fast-Background-Subtraction](https://github.com/rohitdavas/Fast-Background-Subtraction)
-
-
+[![twitter][twitter-shield]][twitter-shield-url]
+[![email][email-shield]][email-shield-url]
+[![linkedin][linkedin-shield]][linkedin-url]
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
-
+A work from the wonderful guidance and motivation from 
+* [Dr. Nils Hasler](https://www.linkedin.com/in/nils-hasler-91734a12/)
+* [Michal Ritcher](https://www.linkedin.com/in/michal-richter-595661154/)
+* [Dr. Vinit Jakhetiya](https://www.linkedin.com/in/vinit-jakhetiya-ph-d-b2450a80/?originalSubdomain=in)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -180,3 +161,15 @@ Project Link: [https://github.com/rohitdavas/Fast-Background-Subtraction](https:
 [license-url]: https://github.com/rohitdavas/repo/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/rohit-davas
+[developement-shield]:images/Under_Developement.svg
+[developement-shiled-url]:https://github.com/rohitdavas/fast-background-subtraction
+[pytorch-shield]:images/pytorch_shield.svg
+[opencv-shield]:images/opencv_shield.svg
+[qt-shield]:images/qt_shield.svg
+[pytorch-shield-url]:https://pytorch.org/
+[qt-shield-url]:https://www.qt.io/
+[opencv-shield-url]:https://opencv.org
+[twitter-shield]:images/Twitter_shield.svg
+[twitter-shield-url]:https://twitter.com/rohitdavas
+[email-shield]:images/email_shield.svg
+[email-shield-url]:https://rohitdavas.github.io/
