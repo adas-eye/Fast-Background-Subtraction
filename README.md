@@ -28,7 +28,7 @@
   <p align="center">
     Light-weight and fast background subtraction model 
     <br />
-    <a href="https://github.com/rohitdavas/fast-background-subtraction"><strong>Explore the docs »</strong></a>
+    <a href="https://rohitdavas.github.io/projects/Fast-Background-Subtraction.html"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/rohitdavas/fast-background-subtraction">View Demo</a>
