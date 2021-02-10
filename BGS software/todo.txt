@@ -1,0 +1,17 @@
+
+1. 
+
+# Add a functionality to add testing from synthetic images generated from 
+# opencv synthetic image generator
+# opencv https://docs.opencv.org/3.4/d1/dda-classcv_1_1bgsegm_1_1SyntheticSequenceGenerator.html 
+
+takes object image, background  image
+outs => input frame, gt mask.
+
+2. 
+
+play from video option.
+
+3. 
+
+	
