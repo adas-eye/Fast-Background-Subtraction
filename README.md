@@ -71,7 +71,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <a href="https://github.com/rohitdavas/fast-background-subtraction">
-    <img src="images/project_logo.png" alt="proejct image" width="80" height="80">
+    <img src="images/project_logo.png" alt="proejct image" width="256" height="256">
 </a>
 
 Here's a blank template to get started:
